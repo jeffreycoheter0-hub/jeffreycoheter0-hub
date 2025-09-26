@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**jeffreycoheter0-hub/jeffreycoheter0-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jeffrey Cohetero👋
 
-Here are some ideas to get you started:
+## 👨‍🏫 About Me
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born in Brooklyn,NY → Raised in Queens,NY → Currently in Queens,NY.
+- Outside of work I like to watch soccer games(FC BARCELONA) and play video games.
+- Let's connect via email: jeffreycoheter0@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack:
+
+### Languages
+- JavaScript
+
+### Frameworks & Libraries
+- Node.js
+
+### Tools
+- Git
+- GitHub
