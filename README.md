@@ -18,7 +18,7 @@ CLASS        : Software Engineer
 SPECIALTY    : Full-Stack Development
 FOCUS        : Backend Engineering
 INTERESTS    : Science Fantasy | Space Technology | Futuristic Systems
-CURRENT ROLE : Software Engineering Fellow @ The Marcy Lab School
+CURRENT ROLE : Software Engineering Alumni @ The Marcy Lab School
 ```
 
 I enjoy building applications that help people discover opportunities and grow. I'm passionate about creating systems that are intuitive, scalable, and continuously improving my skills as an engineer.
